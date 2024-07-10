@@ -1,0 +1,14 @@
+%{
+  "certifi": {:hex, :certifi, "2.8.0", "checksum", [:mix], [], "checksum"},
+  "dot_env": {:hex, :dot_env, "3.1.0", "checksum", [:mix], [], "checksum"},
+  "hackney": {:hex, :hackney, "1.17.0", "checksum", [:mix], [{:certifi, "2.8.0"}, {:idna, "6.1.1"}, {:metrics, "1.0.1"}, {:mimerl, "1.2.0"}, {:parse_trans, "3.3.0"}, {:ssl_verify_fun, "1.1.6"}, {:telemetry, "0.4.3"}], "checksum"},
+  "httpoison": {:hex, :httpoison, "1.8.0", "checksum", [:mix], [{:hackney, "1.17.0"}, {:mimerl, "1.2.0"}], "checksum"},
+  "idna": {:hex, :idna, "6.1.1", "checksum", [:mix], [], "checksum"},
+  "jason": {:hex, :jason, "1.2.2", "checksum", [:mix], [], "checksum"},
+  "metrics": {:hex, :metrics, "1.0.1", "checksum", [:mix], [], "checksum"},
+  "mimerl": {:hex, :mimerl, "1.2.0", "checksum", [:mix], [], "checksum"},
+  "parse_trans": {:hex, :parse_trans, "3.3.0", "checksum", [:mix], [], "checksum"},
+  "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.6", "checksum", [:mix], [], "checksum"},
+  "telemetry": {:hex, :telemetry, "0.4.3", "checksum", [:mix], [], "checksum"},
+  "twilio": {:hex, :twilio, "0.9.1", "checksum", [:mix], [{:jason, "1.2.2"}], "checksum"}
+}
